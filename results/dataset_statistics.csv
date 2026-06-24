@@ -1,0 +1,4 @@
+split,rows,labels,min_per_label,max_per_label,mean_code_tokens,median_code_tokens,p95_code_tokens,mean_ast_proxy_tokens,ast_proxy_parse_ok_rate
+train,32500,65,500,500,248.41203076923077,216.0,483.0,205.18384615384616,1.0
+valid,8500,17,500,500,299.73764705882354,265.0,578.0,247.7864705882353,1.0
+test,12000,24,500,500,233.77175,211.0,428.0,193.97816666666668,1.0
